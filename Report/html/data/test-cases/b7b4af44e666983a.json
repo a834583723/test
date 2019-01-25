@@ -1,0 +1,85 @@
+{
+  "uid" : "b7b4af44e666983a",
+  "name" : "Test_001.test_001",
+  "fullName" : "test_01.Test_001.test_001",
+  "historyId" : "4ee905b030cfdb1f9cbc7ae80ab452dc",
+  "time" : {
+    "start" : 1548408618276,
+    "stop" : 1548408618276,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "我是测试步骤1",
+      "time" : {
+        "start" : 1548408618276,
+        "stop" : 1548408618276,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-61374FI"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "11548-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_01"
+  }, {
+    "name" : "testClass",
+    "value" : "test_01"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_001.test_001"
+  }, {
+    "name" : "package",
+    "value" : "test_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7b4af44e666983a.json",
+  "parameterValues" : [ ]
+}
